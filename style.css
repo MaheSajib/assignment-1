@@ -128,13 +128,13 @@ footer h3{
 footer img{
     position: center;
 }
-.column{
+.icon{
     float: left;
     width: 0;
     padding: 2%;
     margin-left:1% ;
 }
-.column img{
+.icon img{
     height: 30px;
 }
 #just{
